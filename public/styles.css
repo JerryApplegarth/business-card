@@ -1,0 +1,54 @@
+
+body {
+  margin: 20px;
+  
+  color: #007f5f;
+  line-height: 0.75rem;
+  
+  
+  
+
+}
+
+
+img {
+  width: 150px
+}
+
+
+.card {
+  background-color: #bfd200;
+  width: 400px;
+  margin: 0 auto;
+  
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 4px solid #80b918;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 1.25rem;
+  box-shadow: 5px 8px green;
+
+}
+
+ 
+
+
+.border-blue {
+  border-color: 2px solid #3c8dbc;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.web {
+  
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  font-style: italic;
+}
